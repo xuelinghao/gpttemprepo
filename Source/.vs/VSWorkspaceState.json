@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HttpGPTChatModule\\Private",
+    "\\HttpGPTChatModule\\Private\\Tasks",
+    "\\HttpGPTCommonModule\\Private",
+    "\\HttpGPTCommonModule\\Private\\Management",
+    "\\HttpGPTCommonModule\\Private\\Structures",
+    "\\HttpGPTCommonModule\\Private\\Tasks",
+    "\\HttpGPTCommonModule\\Private\\Utils"
+  ],
+  "SelectedNode": "\\HttpGPTChatModule",
+  "PreviewInSolutionExplorer": false
+}
